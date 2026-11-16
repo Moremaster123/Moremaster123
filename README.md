@@ -13,7 +13,7 @@
 - 🌱 Ahora estoy aprendiendo **Docker, SQL Server y GitHub Actions**
 - 🎓 Estudiante del programa **Full Stack Python Developer** en **EBAC**
 - 💬 Pregúntame sobre **Python, Django, React, Redux y SQL**
-- 💼 Busco mi primer trabajo como **desarrollador Back End / Full Stack**
+- 💼 Abierto a oportunidades como **desarrollador Back End / Full Stack**
 - 📫 Contáctame en [LinkedIn](https://www.linkedin.com/in/juan-carlos-desarrollador-web)
 - ⚡ Dato curioso: soy **Técnico en Mantenimiento de Aeronaves** ✈️
 
